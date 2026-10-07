@@ -1,0 +1,4 @@
+interface:
+  display_name: "实景照片微缩立体模型"
+  short_description: "把实景照片转为上下严格等分的微缩等距纸面模型编辑海报"
+  default_prompt: "Use $photo-miniature-isometric-diptych to turn this photo into a 3:4 editorial diptych with the original scene above and an isometric miniature model below."
